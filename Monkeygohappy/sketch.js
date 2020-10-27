@@ -46,7 +46,7 @@ function setup(){
 }
 
 function draw(){
-  background("skyblue");
+  background("lightgreen");
   fill("black");
   text("⚔️ "+score, 470, 20);
   text("🍌 "+bananaScore,300,20);
